@@ -52,7 +52,7 @@
         color:#d4a017;
     }
 
-    /* nav ul li a::after{
+    nav ul li a::after{
         content:"";
         position:absolute;
         left:0;
@@ -67,7 +67,7 @@
         width:100%; */
 
 
-    /* Hero Section */
+    /* Hero Section
 
     .hero{
         min-height:90vh;
