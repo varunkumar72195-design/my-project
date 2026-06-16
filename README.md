@@ -1,4 +1,4 @@
-[live Project] (https://nxgen-explorers.bytexl.live/)
+[live Project](https://nxgen-explorers.bytexl.live/)
 
 # 🚀 NX Club Web
 
